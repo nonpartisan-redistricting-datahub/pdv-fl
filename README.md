@@ -1,5 +1,4 @@
-# pdv-fl
-(TO CLEAN UP)  
+# pdv-fl  
 Partner data validation for Florida, 2018. Data Partners: VEST. 
 
 [Final Report]()
