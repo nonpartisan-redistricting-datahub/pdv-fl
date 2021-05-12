@@ -1,7 +1,11 @@
 # vest-fl-2018
 Partner data validation for Florida, 2018. Data Partners: VEST. 
 
-View the [final report](https://redistrictingdatahub.org/dataset/vest-2018-florida-precinct-and-election-results/).
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2018-florida-precinct-and-election-results/). 
+
+We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
+
+Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
 
 ### **Raw from source:**
 - File: VEST Florida, 2018
