@@ -8,12 +8,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-fl-2018
 
-RDH's partner data validation for VEST's 2018 AZ file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UBKYRU). 
+RDH's partner data validation for VEST's 2018 FL file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UBKYRU). 
 
 View the complete report [here](https://redistrictingdatahub.org/dataset/vest-2018-florida-precinct-and-election-results/).
 
 ## vest-fl-2016
 
-RDH's partner data validation for VEST's 2018 AZ file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/IAELIN&version=54.0). 
+RDH's partner data validation for VEST's 2016 FL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/IAELIN&version=54.0). 
 
 View the complete report [here](https://redistrictingdatahub.org/dataset/vest-2016-florida-precinct-and-election-results/).
