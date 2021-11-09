@@ -6,6 +6,12 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
 
+## vest-fl-2020
+
+RDH's partner data validation for VEST's 2020 FL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4938250&version=24.0). 
+
+View the complete report [here](https://redistrictingdatahub.org/dataset/vest-2020-florida-precinct-boundaries-and-election-results/).
+
 ## vest-fl-2018
 
 RDH's partner data validation for VEST's 2018 FL file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UBKYRU). 
